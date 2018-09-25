@@ -18,12 +18,19 @@ kaggle competitions download -c rsna-pneumonia-detection-challenge
 * Atleast 16 GB RAM
 * Access to internet from code environment
 
-### Running
+### Docs
+* Project Proposal
+* Project Report 
+* Pneumonia-Classification-EDA.ipynb - EDA notebook.
+* Pneumonia-Classification.ipynb - modelling notebook.
+* Run-Details.xlsx - Multiple run details.
+
+### How to run
 * The data-set has to be downloaded into the ../input directory.
 * The analysis is split into two notebooks. 
 * Pneumonia-Classification-EDA.ipynb which has exploratory analysis of the metadata of the images.
 * Pneumonia-Classification.ipynb has the modelling code.
-* The parameters in the modelling code has to be set.
+* The parameters in the modelling code has to be set before running.
 * Then the notebook can be run. 
 
 ### Results
