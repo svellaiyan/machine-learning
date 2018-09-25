@@ -19,11 +19,12 @@ kaggle competitions download -c rsna-pneumonia-detection-challenge
 * Access to internet from code environment
 
 ### Docs
-* Project Proposal
-* Project Report 
-* Pneumonia-Classification-EDA.ipynb - EDA notebook.
-* Pneumonia-Classification.ipynb - modelling notebook.
-* Run-Details.xlsx - Multiple run details.
+* [Project Proposal]: https://github.com/svellaiyan/machine-learning/blob/master/my_submissions/capstone_project/proposal.pdf
+* [Project Report]: https://github.com/svellaiyan/machine-learning/blob/master/my_submissions/capstone_project/report.pdf 
+* [Modelling Notebook]: https://github.com/svellaiyan/machine-learning/blob/master/my_submissions/capstone_project/Pneumonia-Classification.ipynb
+* [Modelling Notebook - Kaggle Kernel]: https://www.kaggle.com/sathya16/pneumonia-classification
+* [EDA notebook]: https://github.com/svellaiyan/machine-learning/blob/master/my_submissions/capstone_project/Pneumonia-Classification-EDA.ipynb
+* [Run-Details]: https://github.com/svellaiyan/machine-learning/blob/master/my_submissions/capstone_project/run-details.xlsx
 
 ### How to run
 * The data-set has to be downloaded into the ../input directory.
